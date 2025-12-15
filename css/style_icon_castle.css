@@ -1,0 +1,121 @@
+
+.castle_visit {
+    width: 350px;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.castle_title{
+font-size: 27px;
+
+}
+
+
+
+.castle_icon1{
+  display:flex;
+  gap:5px;
+  width:
+
+}
+.castle_icon2{
+  display:flex;
+  gap:5px;
+  width:300px;
+
+}
+.castle_icon3{
+  display:flex;
+  gap:5px;
+  width:380px;
+
+}
+
+
+.location{
+    
+  text-decoration: none;  
+
+    color:var(--color);
+    width:60px;
+    height:60px;
+    border-radius:40px;
+    cursor:pointer;
+   font-size: 40px;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   tansition:.3s ease;
+   
+-webkit-box-reflect: below 5px
+  linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.4));
+
+
+}
+
+.location:hover{
+ background-color: var(--color);
+color:rgb(234, 36, 36);
+box-shadow: 0 4px 30px var(--color);
+
+
+}
+.weather{
+    
+  text-decoration: none;  
+
+    color:var(--color);
+    width:60px;
+    height:60px;
+    border-radius:40px;
+    cursor:pointer;
+   font-size: 40px;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   tansition:.3s ease;
+   
+-webkit-box-reflect: below 5px
+  linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.4));
+
+
+}
+
+.weather:hover{
+ background-color: var(--color);
+color:rgb(36, 99, 234);
+box-shadow: 0 4px 30px var(--color);
+
+
+}
+
+.tour{
+    
+  text-decoration: none;  
+
+    color:var(--color);
+    width:60px;
+    height:60px;
+    border-radius:40px;
+    cursor:pointer;
+   font-size: 40px;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   tansition:.3s ease;
+   
+-webkit-box-reflect: below 5px
+  linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.4));
+
+
+}
+
+.tour:hover{
+ background-color: var(--color);
+color:rgb(234, 165, 36);
+box-shadow: 0 4px 30px var(--color);
+
+
+}
